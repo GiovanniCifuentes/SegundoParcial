@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1681923432 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\segundoparcial\prototipo2pp12023\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681922861 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\segundoparcial\prototipo2pp12023\include\usuario.h
+	<iostream>
+	<fstream>
+	<string>
+
+1681923321 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\segundoparcial\prototipo2pp12023\main.cpp
+	<iostream>
+	"usuario.h"
+	"menuCrud.h"
+
+1681923860 c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\segundoparcial\prototipo2pp12023\include\menucrud.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1681922861 source:c:\users\steven cifuentes\documents\universidad 2022\3er semestre\programacion i\ejercicios o tareas de git\segundoparcial\prototipo2pp12023\src\menucrud.cpp
+	"menuCrud.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
